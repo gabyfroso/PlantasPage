@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PlantasPage/static/css/main.0411788a.css",
+    "main.js": "/PlantasPage/static/js/main.8147d0fe.js",
+    "static/js/787.42878d8e.chunk.js": "/PlantasPage/static/js/787.42878d8e.chunk.js",
+    "index.html": "/PlantasPage/index.html",
+    "main.0411788a.css.map": "/PlantasPage/static/css/main.0411788a.css.map",
+    "main.8147d0fe.js.map": "/PlantasPage/static/js/main.8147d0fe.js.map",
+    "787.42878d8e.chunk.js.map": "/PlantasPage/static/js/787.42878d8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0411788a.css",
+    "static/js/main.8147d0fe.js"
+  ]
+}
